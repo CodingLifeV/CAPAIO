@@ -20,7 +20,6 @@ majority_class = 1
 
 Density_threshold = 0.5
 
-# 数据文件属性名称,relation名称
 attribute_names = []
 relation = []
 
